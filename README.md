@@ -1,2 +1,2 @@
 # HelloW
-Example package for root-get external package
+Example for root-get external package
